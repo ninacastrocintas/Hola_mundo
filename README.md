@@ -1,2 +1,3 @@
 # Hola_mundo
-Programa de iniciación en java
+Progra de iniciación en Java
+Escribe  "Hola Mundo" en la salida estándar
